@@ -1,3 +1,7 @@
+> **第三方兼容适配分支，维护者：hebingking。** 原项目及作者来源：[HunYiSage/dsh-purge](https://github.com/HunYiSage/dsh-purge)，Copyright 2026 HunYiSage，由 dsh-purge maintainers 团队维护。本分支基于上游提交 `fc6e787dda5cfbc48c342cf427831b403239b866`（1.1.92），补充 DeepSeek Harness `0.2.2-rc.1` 的 Web / 桌面 EXE 兼容修复与 pnpm 11.21.0 构建审批修复；不代表上游官方支持。保留原有 [LICENSE](LICENSE) 和 [NOTICE](NOTICE)。
+>
+> 安装、修复范围、验证结果及限制见 [兼容适配说明](docs/compatibility-0.2.2-rc.1.zh-CN.md)。本分支的插件更新来源为 `hebingking/dsh-purge`。
+
 <p align="center">
   <img src="docs/banner.svg" alt="dsh-purge" width="720">
 </p>

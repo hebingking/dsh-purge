@@ -1,3 +1,7 @@
+> **Third-party compatibility fork maintained by hebingking.** Original project: [HunYiSage/dsh-purge](https://github.com/HunYiSage/dsh-purge), Copyright 2026 HunYiSage, maintained by the dsh-purge maintainers team. Based on upstream commit `fc6e787dda5cfbc48c342cf427831b403239b866` (1.1.92). Adds Web / desktop EXE compatibility for DeepSeek Harness `0.2.2-rc.1` and a pnpm 11.21.0 build-approval fix. This is not an official upstream compatibility release. Original [LICENSE](LICENSE) and [NOTICE](NOTICE) are retained.
+>
+> See [compatibility notes and installation](docs/compatibility-0.2.2-rc.1.zh-CN.md). The plugin updater in this fork uses `hebingking/dsh-purge`.
+
 <p align="center">
   <img src="docs/banner.svg" alt="dsh-purge" width="720">
 </p>

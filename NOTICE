@@ -8,3 +8,10 @@ This product is licensed under the Apache License, Version 2.0.
 Derivative works must retain this NOTICE and attribution.
 
 Bundled skills under skills/redteam/ originate from the dsh-purge upstream project (YuJunZhiXue/dsh-purge), retrieved via the mirror mmparko/dsh-purge.
+
+Third-party compatibility modifications by hebingking, 2026-11-06.
+Fork: https://github.com/hebingking/dsh-purge
+Based on HunYiSage/dsh-purge commit fc6e787dda5cfbc48c342cf427831b403239b866 (1.1.92).
+Changes: DeepSeek Harness 0.2.2-rc.1 Web/desktop compatibility, pnpm build-approval preservation,
+desktop patch idempotence, regression tests, and fork installation/update metadata.
+These modifications are independent of, and not endorsed by, the upstream maintainers.
